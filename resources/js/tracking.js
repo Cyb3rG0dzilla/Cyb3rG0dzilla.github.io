@@ -1,1 +1,1 @@
-window.open("https://www.w3schools.com");
+window.location.replace("https://www.w3schools.com");
